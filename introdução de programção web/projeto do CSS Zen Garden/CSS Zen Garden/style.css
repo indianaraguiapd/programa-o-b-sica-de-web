@@ -1,0 +1,11 @@
+/* Color Theme Swatches in Hex */
+/*.principal { color: #202426; }
+.destaque{ color: #6C733D; }
+.Natureza-3-hex { color: #9DA65D; }
+.Natureza-4-hex { color: #8C8C88; }
+.backgroud { color: #F2F2F2; }*/
+
+html{
+	background:  #F2F2F2 ;
+	color:#202426;
+}
