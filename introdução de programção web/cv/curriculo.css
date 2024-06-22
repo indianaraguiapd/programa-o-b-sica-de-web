@@ -40,30 +40,6 @@ color: #0000009c;
     padding: 0 5%;
 }
 
-.btn{
-    background-color: #4f9cf9;
-    color: white;
-    padding: 15px 20px;
-    border-radius: 10px;
-    cursor: pointer;
-    display: inline-block;
-    transition: 0.1s;
-}
-.btn.animate-btn{
-    animation: animate-outline 1s ease-out infinite;
-}
-
-.btn:hover{
-    background-color: #3580db ;
-}
-@keyframes animate-outline {
-    from{
-        outline: 0px solid #4f9bf98a;
-    }
-    to{
-        outline: 15px solid #4f9bf900;
-    }
-}
 header{
     background-position: center;
     background-size: cover;
